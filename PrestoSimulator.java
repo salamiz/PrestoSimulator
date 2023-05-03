@@ -1,7 +1,7 @@
 // Name: Zulkifli Salami
 // Date: March 27th, 2023
 // App Name: Presto Simulator
-// Description: App to simulate some functions in the Presto card system
+// Description: App to simulate some functions in the Presto card system in Canada
 
 import java.util.ArrayList;
 import java.util.Scanner;
