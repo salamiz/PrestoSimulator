@@ -26,7 +26,7 @@ public class Console
 
 
     /**
-     * Change the console title
+     * Change the console name
      * @param title The new title
      */
     static public void setTitle(String title) 
