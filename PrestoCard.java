@@ -18,7 +18,7 @@ public class PrestoCard
     }
 
     /**
-     * Generate the PrestoCard object balance
+     * Generate the PrestoCard object bal
      * @return the card balance
      */
     public double getBalance() {
